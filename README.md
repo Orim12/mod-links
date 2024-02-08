@@ -35,3 +35,5 @@ https://modrinth.com/mod/xaeros-world-map<br/>
 https://modrinth.com/mod/yacl<br/>
 https://modrinth.com/mod/zoomify<br/>
 https://modrinth.com/mod/badpackets<br/>
+https://modrinth.com/mod/carpet-extra<br/>
+https://modrinth.com/mod/carpet<br/>
